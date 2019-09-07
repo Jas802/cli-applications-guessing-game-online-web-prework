@@ -10,5 +10,5 @@ elsif input.downcase == "exit"
 else
   puts "Sorry! The computer guessed #{number}."
 end
-  
+
 end
